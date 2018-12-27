@@ -1,0 +1,19 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="OpenCV-Python-Tutorials" type="JupiterNotebook" factoryName="Jupyter Notebook">
+    <module name="OpenCV-Python-Tutorials" />
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <option name="PARENT_ENVS" value="true" />
+    <envs>
+      <env name="PYTHONUNBUFFERED" value="1" />
+    </envs>
+    <option name="SDK_HOME" value="C:\Users\i348221\AppData\Local\Continuum\anaconda3\envs\py37\python.exe" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10.Gui Features in OpenCV/10.Getting Started with Images" />
+    <option name="IS_MODULE_SDK" value="false" />
+    <option name="ADD_CONTENT_ROOTS" value="true" />
+    <option name="ADD_SOURCE_ROOTS" value="true" />
+    <option name="additionalOptions" value="" />
+    <option name="ipnbHost" value="localhost" />
+    <option name="ipnbPort" value="8888" />
+    <method v="2" />
+  </configuration>
+</component>
